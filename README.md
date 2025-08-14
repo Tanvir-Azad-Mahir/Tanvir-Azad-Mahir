@@ -20,24 +20,6 @@
   </p>
 </div>
 
----
-
-const animeProfile = {
-  currentlyWatching: [
-    { title: "Jujutsu Kaisen", progress: "Season 2" },
-    { title: "Vinland Saga", progress: "Season 2" }
-  ],
-  allTimeFavorites: [
-    "Steins;Gate",
-    "Attack on Titan",
-    "Death Note",
-    "Fullmetal Alchemist: Brotherhood"
-  ],
-  watchlist: [
-    "Chainsaw Man Part 2",
-    "Demon Slayer: Hashira Training Arc",
-    "Oshi no Ko Season 2"
-  ],
   waifu: {
     name: "Mikasa Ackerman",
     series: "Attack on Titan",
