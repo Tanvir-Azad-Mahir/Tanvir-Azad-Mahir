@@ -3,12 +3,12 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZtY2M2d3R0bWx0Z3B4Y3FjYzV6cGJmY2R6eWx4eWZ5a2V5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" height="200" alt="Anime Welcome GIF"/>
   
   <!-- Animated Typing Text -->
-  <h1>✨ Kon'nichiwa! I'm <a href="https://yourportfolio.com">YourName</a> ✨</h1>
+  <h1>✨ Kon'nichiwa! I'm <a href="https://yourportfolio.com">Tanvir Azad Mahir</a> ✨</h1>
   
   <!-- Subtitle with emojis -->
   <p>
     <em>
-      Full-Stack Developer | Anime Enthusiast | Open Source Contributor<br/>
+      Jva Developer | Anime Enthusiast | Open Source Contributor<br/>
       "Turning ☕ into code and dreams into reality" 🚀
     </em>
   </p>
