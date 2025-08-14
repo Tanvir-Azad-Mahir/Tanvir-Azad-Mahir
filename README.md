@@ -17,13 +17,11 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=flat-square" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
-    <img src="https://badges.pufler.dev/repos/yourusername?color=blueviolet" alt="Total Repositories"/>
-    <img src="https://badges.pufler.dev/commits/monthly/yourusername" alt="Monthly Commits"/>
   </p>
 </div>
 
 ⚡ Tech Stack
 🧰 Languages & Tools
-<p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-339933?logo=C++&logoColor=white" alt="C++"/></p>
+<p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-339933?logo=C++&logoColor=black" alt="C++"/></p>
 ⚙️ DevOps & Cloud
- <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/> 
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/> 
