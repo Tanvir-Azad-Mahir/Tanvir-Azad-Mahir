@@ -12,13 +12,7 @@
       "Building digital dojos by day, binge-watching anime by night" 🌙🍿
     </em>
   </p>
-  
-  <!-- Dynamic Badges -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
-    <img src="https://img.shields.io/badge/Daily+Weeb-100%25-ff69b4?style=for-the-badge" alt="Weeb Status"/>
-  </p>
-</div>
+
 
   waifu: {
     name: "Mikasa Ackerman",
