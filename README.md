@@ -22,25 +22,25 @@
 
 ---
 
-## 🗡️ **About Me**
-
-```typescript
-interface OtakuDeveloper {
-  name: string;
-  title: string;
-  location: string;
-  currentMission: string;
-  skills: string[];
-  animePowerLevel: number;
-}
-
-const me: OtakuDeveloper = {
-  name: "YourName",
-  title: "Full-Stack Ninja",
-  location: "Konoha Digital Village", 
-  currentMission: "Creating anime-tech fusion projects",
-  skills: ["React", "TypeScript", "Node.js", "UI/UX", "AI"],
-  animePowerLevel: 9001 // It's over 9000!
+const animeProfile = {
+  currentlyWatching: [
+    { title: "Jujutsu Kaisen", progress: "Season 2" },
+    { title: "Vinland Saga", progress: "Season 2" }
+  ],
+  allTimeFavorites: [
+    "Steins;Gate",
+    "Attack on Titan",
+    "Death Note",
+    "Fullmetal Alchemist: Brotherhood"
+  ],
+  watchlist: [
+    "Chainsaw Man Part 2",
+    "Demon Slayer: Hashira Training Arc",
+    "Oshi no Ko Season 2"
+  ],
+  waifu: {
+    name: "Mikasa Ackerman",
+    series: "Attack on Titan",
+    powerLevel: "SS+ Tier"
+  }
 };
-
-console.log(`Kon'nichiwa world! ${me.name} here ready to collab!`);
