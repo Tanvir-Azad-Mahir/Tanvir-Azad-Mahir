@@ -1,26 +1,46 @@
-<!-- Header with Anime GIF -->
+<!-- Anime Header Section - Replace the GIF URL with your favorite anime GIF -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZtY2M2d3R0bWx0Z3B4Y3FjYzV6cGJmY2R6eWx4eWZ5a2V5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" height="200" alt="Anime Welcome GIF"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW0yNnRqY2R6d2NtYzV1ZmxqZzJ6eGJjbW5tZGN4dWZ2eGJ1dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="200" alt="Anime Welcome GIF"/>
   
   <!-- Animated Typing Text -->
-  <h1>✨ Kon'nichiwa! I'm <a href="https://tanvir-azad-mahir.github.io/Portfolio/">Tanvir Azad Mahir</a> ✨</h1>
+  <h1>✨ ようこそ! I'm <a href="https://yourportfolio.com">YourName</a> ✨</h1>
   
   <!-- Subtitle with emojis -->
   <p>
     <em>
-      Java Developer | Anime Enthusiast | Open Source Contributor<br/>
-      "Turning ☕ into code and dreams into reality" 🚀
+      Code Samurai | Anime Architect | Open Source Weeb<br/>
+      "Building digital dojos by day, binge-watching anime by night" 🌙🍿
     </em>
   </p>
   
   <!-- Dynamic Badges -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=flat-square" alt="Profile Views"/>
-    <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
-    <img src="https://badges.pufler.dev/repos/yourusername?color=blueviolet" alt="Total Repositories"/>
-    <img src="https://badges.pufler.dev/commits/monthly/Tanvir-Azad-Mahir" alt="Monthly Commits"/>
+    <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://img.shields.io/badge/Daily+Weeb-100%25-ff69b4?style=for-the-badge" alt="Weeb Status"/>
   </p>
-  <!-- Add a coding activity graph -->
-
 </div>
 
+---
+
+## 🗡️ **About Me**
+
+```typescript
+interface OtakuDeveloper {
+  name: string;
+  title: string;
+  location: string;
+  currentMission: string;
+  skills: string[];
+  animePowerLevel: number;
+}
+
+const me: OtakuDeveloper = {
+  name: "YourName",
+  title: "Full-Stack Ninja",
+  location: "Konoha Digital Village", 
+  currentMission: "Creating anime-tech fusion projects",
+  skills: ["React", "TypeScript", "Node.js", "UI/UX", "AI"],
+  animePowerLevel: 9001 // It's over 9000!
+};
+
+console.log(`Kon'nichiwa world! ${me.name} here ready to collab!`);
