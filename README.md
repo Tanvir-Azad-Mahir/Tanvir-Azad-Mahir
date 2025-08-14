@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDZtY2M2d3R0bWx0Z3B4Y3FjYzV6cGJmY2R6eWx4eWZ5a2V5dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT5LMHxhOfscxPfIfm/giphy.gif" width="200" height="200" alt="Anime Welcome GIF"/>
   
   <!-- Animated Typing Text -->
-  <h1>✨ Kon'nichiwa! I'm <a href="https://yourportfolio.com">YourName</a> ✨</h1>
+  <h1>✨ Kon'nichiwa! I'm <a href="https://yourportfolio.com">Tanvir Azad Mahir</a> ✨</h1>
   
   <!-- Subtitle with emojis -->
   <p>
@@ -22,25 +22,3 @@
   </p>
 </div>
 
----
-
-## 🗡️ **About Me**
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Full-Stack Developer"
-        self.passion = "Building anime-related tech"
-        self.tech_stack = {
-            "frontend": ["React", "Next.js", "TailwindCSS"],
-            "backend": ["Node.js", "Python", "Java"],
-            "database": ["MongoDB", "PostgreSQL"],
-            "devops": ["Docker", "AWS", "GitHub Actions"]
-        }
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome!")
-
-me = Developer()
-me.say_hi()
