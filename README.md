@@ -19,7 +19,11 @@
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
   </p>
 </div>
+
 🧰 Languages & Tools
 <p><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/C-000000?logo=C&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/C++-339933?logo=C++&logoColor=black" alt="C++"/></p>
 ⚙️ DevOps & Cloud
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions"/> 
+
+📊 GitHub Analytics
+<div align="center"> <!-- GitHub Stats --> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> <!-- Top Languages --> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/> <!-- Streak Stats --> <img height="180em" src="https://streak-stats.demolab.com/?user=yourusername&theme=tokyonight&hide_border=true"/> <!-- Trophy Case --> <img height="180em" src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=2&column=4"/></div>
