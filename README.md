@@ -30,23 +30,5 @@
 </div>
 
 ---
-
-## 🌸 **About Me**
-
-```javascript
-const animeDev = {
-  pronouns: "he/him" || "she/her" || "they/them",
-  code: ["JavaScript", "TypeScript", "Python"],
-  currentFocus: "Building anime-tech fusion projects",
-  animeStack: ["Jikan API", "AniList API", "MAL-Sync"],
-  favorites: {
-    anime: ["Steins;Gate", "Attack on Titan", "Your Lie in April"],
-    character: "Lelouch vi Britannia",
-    quote: "All Hail Lelouch!",
-    powerLevel: "Over 9000"
-  },
-  currentlyWatching: [
-    { title: "Jujutsu Kaisen", progress: "Season 2" },
-    { title: "Vinland Saga", progress: "Season 2" }
-  ]
-};
+⚡ Tech Stack
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;"><!-- FRONTEND --><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/><!-- BACKEND --><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/><!-- TOOLS --><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></div>
