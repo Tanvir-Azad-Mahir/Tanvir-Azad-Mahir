@@ -30,8 +30,7 @@
 
 📫 Connect With Me
 <p align="center"> <a href="mailto:mahir.cse.pc@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https://linkedin.com/in/tanvirazadmahir"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://yourportfolio.com"> <img src="https://img.shields.io/badge/-Portfolio-FF7139?logo=firefox&logoColor=white" alt="Portfolio"/> </a> <a href="https://discord.gg/tanvirazadmahir"> <img src="https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white" alt="Discord"/> </a> </p>
-<div align="center"> <!-- Snake Game Contribution Graph -->
-https://github.com/Tanvir-Azad-Mahir/Tanvir-Azad-Mahir/blob/output/github-contribution-grid-snake.svg
+<div align="center">
 
 <!-- Footer -->
 <sub><sup>✨ <b>Arigatou gozaimasu</b> for visiting! ✨</sup></sub>
@@ -39,3 +38,8 @@ https://github.com/Tanvir-Azad-Mahir/Tanvir-Azad-Mahir/blob/output/github-contri
 <sub><sup>P.S. - My DMs are always open for anime recommendations!</sup></sub>
 
 </div> ```
+<!-- Add a coding activity graph -->
+![Metrics](https://metrics.lecoq.io/Tanvir-Azad-Mahir?template=terminal&base.indepth=false&config.timezone=Asia%2FTokyo)
+
+<!-- Add a random anime quote -->
+> "The world is cruel but also beautiful." - Mikasa Ackerman (Attack on Titan)
