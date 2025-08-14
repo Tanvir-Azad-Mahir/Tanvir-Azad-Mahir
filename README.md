@@ -20,5 +20,10 @@
     <img src="https://badges.pufler.dev/repos/yourusername?color=blueviolet" alt="Total Repositories"/>
     <img src="https://badges.pufler.dev/commits/monthly/Tanvir-Azad-Mahir" alt="Monthly Commits"/>
   </p>
+  <!-- Add a coding activity graph -->
+![Metrics](https://metrics.lecoq.io/yourusername?template=terminal&base.indepth=false&config.timezone=Asia%2FTokyo)
+
+<!-- Add a random anime quote -->
+> "The world is cruel but also beautiful." - Mikasa Ackerman (Attack on Titan)
 </div>
 
