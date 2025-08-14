@@ -18,7 +18,7 @@
     <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff69b4&style=flat-square" alt="Profile Views"/>
     <img src="https://img.shields.io/github/followers/yourusername?label=Follow&style=social" alt="GitHub Followers"/>
     <img src="https://badges.pufler.dev/repos/yourusername?color=blueviolet" alt="Total Repositories"/>
-    <img src="https://badges.pufler.dev/commits/monthly/yourusername" alt="Monthly Commits"/>
+    <img src="https://badges.pufler.dev/commits/monthly/Tanvir-Azad-Mahir" alt="Monthly Commits"/>
   </p>
 </div>
 
