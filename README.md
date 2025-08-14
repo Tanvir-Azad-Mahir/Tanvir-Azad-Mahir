@@ -1,41 +1,52 @@
-# Hey there, I'm Tanvir Azad (Mahir) 👋  
+<!-- 🎌 ANIME-STYLE GITHUB PROFILE 🎌 -->
+<div align="center">
+  
+  <!-- YOUR ANIME GIF (FULL WIDTH) -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29vdDU2aDV1dHRhY210ZnhqZ2tyY2pwemtmdHRqM2VlcjNhMnpqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CkzASXWphfkQ5CF6ny/giphy.gif" width="100%" alt="Anime Coding GIF"/>
 
-![Banner](https://i.imgur.com/OBUkjVv.png) <!-- You can replace this with your own custom banner -->
+  <!-- GLOWING TITLE WITH TYPING EFFECT -->
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=600&size=26&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&width=570&lines=Konnichiwa+World!;I'm+YourName;Anime+Powered+Developer;Open+Source+Otaku" alt="Typing Animation" />
+  </h1>
 
-## 🚀 About Me
-💻 CSE Student @ UIU | Future Software Engineer  
-⚡ Full-Stack Development | AI Enthusiast | IoT Hobbyist  
-🌏 Always exploring new tech and building cool stuff  
-🎯 Goal: Master AI & Robotics, and create impactful projects  
+  <!-- SOCIAL BADGES WITH ANIME FLAIR -->
+  <p align="center">
+    <a href="https://twitter.com/yourhandle">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white&labelColor=0D1117"/>
+    </a>
+    <a href="https://linkedin.com/in/yourprofile">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+    </a>
+    <a href="https://yourportfolio.com">
+      <img src="https://img.shields.io/badge/-Portfolio-FF7139?style=plastic&logo=firefox&logoColor=white&labelColor=0D1117"/>
+    </a>
+    <a href="https://myanimelist.net/profile/yourprofile">
+      <img src="https://img.shields.io/badge/-MyAnimeList-2E51A2?style=plastic&logo=myanimelist&logoColor=white&labelColor=0D1117"/>
+    </a>
+  </p>
 
----
-
-## 🛠️ Tech Stack
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-![ESP32](https://img.shields.io/badge/-ESP32-000000?style=flat&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Tanvir-Azad-Mahir)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](#)
+  <!-- VIEW COUNTER WITH ANIME STYLE -->
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=PROFILE+VISITORS&color=F85D7F&style=plastic&labelColor=0D1117" alt="Profile views"/>
+</div>
 
 ---
 
-> 💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+## 🌸 **About Me**
 
-⭐️ From [Tanvir Azad (Mahir)](https://github.com/Tanvir-Azad-Mahir)
+```javascript
+const animeDev = {
+  pronouns: "he/him" || "she/her" || "they/them",
+  code: ["JavaScript", "TypeScript", "Python"],
+  currentFocus: "Building anime-tech fusion projects",
+  animeStack: ["Jikan API", "AniList API", "MAL-Sync"],
+  favorites: {
+    anime: ["Steins;Gate", "Attack on Titan", "Your Lie in April"],
+    character: "Lelouch vi Britannia",
+    quote: "All Hail Lelouch!",
+    powerLevel: "Over 9000"
+  },
+  currentlyWatching: [
+    { title: "Jujutsu Kaisen", progress: "Season 2" },
+    { title: "Vinland Saga", progress: "Season 2" }
+  ]
+};
