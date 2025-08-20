@@ -1,4 +1,4 @@
-<!-- 🎌 ANIME-STYLE GITHUB PROFILE 🎌 -->
+
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2dG1iMnhiYW5vM3BreDd3ajh4ZXB0YTA4aXJiaGN4c3duOWp3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif" width="200" height="200" alt="Anime Welcome GIF"/>
   
