@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzQ2dG1iMnhiYW5vM3BreDd3ajh4ZXB0YTA4aXJiaGN4c3duOWp3cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zwPRprvrP4Lm0/giphy.gif" width="200" height="200" alt="Anime Welcome GIF"/>
+  <img src="https://media.giphy.com/media/036MzDU7DcxgR9xQjY/giphy.gif" width="200" height="200" alt="Anime Welcome GIF"/>
   
   <h1>✨ Kon'nichiwa! I'm <a href="https://tanvir-azad-mahir.github.io">Tanvir Azad Mahir</a> ✨</h1>
   
