@@ -28,7 +28,6 @@
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### ⚙️ **DevOps & Tools**
