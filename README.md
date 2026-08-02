@@ -92,15 +92,16 @@ const tanvir = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=8b5cf6&text_color=d4d4d8&ring_color=8b5cf6&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=d4d4d8&langs_count=8"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Tanvir-Azad-Mahir&hide_border=true&background=09090B&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-Azad-Mahir&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
