@@ -1,95 +1,188 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=120&section=header&text=Tanvir+Azad+Mahir&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=Full-Stack+Developer+·+Open+Source+·+Anime+Enjoyer&descSize=14&descAlignY=68&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:09090b,50:18181b,100:6d28d9&text=Tanvir%20Azad%20Mahir&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Developer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Open%20Source%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=const+dev+%3D+%22Tanvir+Azad+Mahir%22;turning+%E2%98%95+into+code+since+day+one;%3E+currently+building+something+cool...;%3E+open+to+collaborations+%26+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=16\&pause=1200\&color=A78BFA\&center=true\&vCenter=true\&width=620\&lines=Building+clean+and+meaningful+software.;Exploring+AI%2C+systems+and+modern+technology.;Always+learning.+Always+building.;Open+to+collaboration+and+new+ideas.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/-portfolio-0f0f1a?style=flat-square&logo=vercel&logoColor=a78bfa&labelColor=0f0f1a)](https://tanvir-azad-mahir.github.io)
-[![LinkedIn](https://img.shields.io/badge/-linkedin-0f0f1a?style=flat-square&logo=linkedin&logoColor=60a5fa&labelColor=0f0f1a)](https://linkedin.com/in/tanvir-azad-mahir)
-[![Email](https://img.shields.io/badge/-email-0f0f1a?style=flat-square&logo=gmail&logoColor=f472b6&labelColor=0f0f1a)](mailto:your@email.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Tanvir-Azad-Mahir&style=flat-square&color=6d28d9&label=views)
+<a href="https://tanvir-azad-mahir.github.io">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tanvir-azad-mahir">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Tanvir-Azad-Mahir&style=for-the-badge&color=6d28d9&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-```ts
-const tanvir: Developer = {
-  name:      "Tanvir Azad Mahir",
-  location:  "Bangladesh 🇧🇩",
-  focus:     "Building things that matter",
-  learning:  ["System Design", "Cloud Architecture", "DSA"],
-  hobbies:   ["open source", "anime 🎌", "coffee at 2AM ☕"],
-  openTo:    "collaborations & opportunities",
-  funFact:   "debugs faster after midnight",
+## 👋 About Me
+
+```typescript
+const tanvir = {
+    name: "Tanvir Azad Mahir",
+    location: "Bangladesh 🇧🇩",
+
+    roles: [
+        "Developer",
+        "Researcher",
+        "Open Source Enthusiast"
+    ],
+
+    interests: [
+        "Artificial Intelligence",
+        "Software Engineering",
+        "System Design",
+        "Cloud Computing"
+    ],
+
+    currentlyLearning: [
+        "System Design",
+        "Cloud Architecture",
+        "Data Structures & Algorithms"
+    ],
+
+    goal: "Build useful technology that creates real impact.",
+
+    openTo: [
+        "Research collaborations",
+        "Open source projects",
+        "Developer opportunities"
+    ]
 };
 ```
 
-<br/>
+---
 
-## ⬡ &nbsp;Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0f0f1a?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/Java-0f0f1a?style=for-the-badge&logo=openjdk&logoColor=f89820)
-![C](https://img.shields.io/badge/C-0f0f1a?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-0f0f1a?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+### Languages
 
-![Git](https://img.shields.io/badge/Git-0f0f1a?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0f0f1a?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-0f0f1a?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Linux](https://img.shields.io/badge/Linux-0f0f1a?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS_Code-0f0f1a?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp&theme=dark" />
+
+<br/><br/>
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
+
+<br/><br/>
+
+### Exploring
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,pytorch,tensorflow&theme=dark" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=8b5cf6&text_color=d4d4d8&ring_color=8b5cf6&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&layout=compact&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=d4d4d8&langs_count=8"/>
+
+<br/><br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Tanvir-Azad-Mahir&hide_border=true&background=09090B&ring=8B5CF6&fire=EC4899&currStreakLabel=A78BFA&sideLabels=A1A1AA&dates=71717A&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=09090b&color=a78bfa&line=8b5cf6&point=ec4899&area=true&area_color=6d28d9&hide_border=true&radius=8"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tanvir-Azad-Mahir&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"/>
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🧠 Research
+
+Exploring AI, speech technologies,
+responsible systems and modern computing.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻 Development
+
+Building reliable software,
+tools and practical projects.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🌱 Learning
+
+Improving system design,
+cloud and problem-solving skills.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **research, open-source projects, software development, and interesting technical discussions.**
+
+<br/>
+
+<a href="https://tanvir-azad-mahir.github.io">
+<img src="https://img.shields.io/badge/Visit_My_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tanvir-azad-mahir">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-## ⬡ &nbsp;GitHub Stats
-
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&hide_border=true&bg_color=0f0f1a&title_color=a78bfa&icon_color=6d28d9&text_color=64748b&ring_color=6d28d9&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&hide_border=true&bg_color=0f0f1a&title_color=a78bfa&text_color=64748b&layout=compact&langs_count=6"/>
+### `Code • Research • Learn • Build • Repeat`
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Tanvir-Azad-Mahir&hide_border=true&background=0f0f1a&stroke=6d28d9&ring=a78bfa&fire=f472b6&currStreakLabel=a78bfa&sideLabels=64748b&dates=475569&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
-
-</div>
-
-<br/>
-
-## ⬡ &nbsp;Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=0f0f1a&color=a78bfa&line=6d28d9&point=f472b6&hide_border=true&radius=4)](https://github.com/Tanvir-Azad-Mahir)
-
-</div>
-
-<br/>
-
-## ⬡ &nbsp;Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Tanvir-Azad-Mahir&theme=onestar&no-frame=true&column=7&margin-w=4)](https://github.com/Tanvir-Azad-Mahir)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6d28d9,100:09090b&section=footer" width="100%" />
 
 </div>
