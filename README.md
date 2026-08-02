@@ -26,39 +26,39 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-```typescript
+```ts
 const tanvir = {
-    name: "Tanvir Azad Mahir",
-    location: "Bangladesh 🇧🇩",
+  name: "Tanvir Azad Mahir",
+  location: "Bangladesh 🇧🇩",
 
-    roles: [
-        "Developer",
-        "Researcher",
-        "Open Source Enthusiast"
-    ],
+  roles: [
+    "Developer",
+    "Researcher",
+    "Open Source Enthusiast"
+  ],
 
-    interests: [
-        "Artificial Intelligence",
-        "Software Engineering",
-        "System Design",
-        "Cloud Computing"
-    ],
+  interests: [
+    "Artificial Intelligence",
+    "Software Engineering",
+    "System Design",
+    "Cloud Computing"
+  ],
 
-    currentlyLearning: [
-        "System Design",
-        "Cloud Architecture",
-        "Data Structures & Algorithms"
-    ],
+  currentlyLearning: [
+    "System Design",
+    "Cloud Architecture",
+    "Data Structures & Algorithms"
+  ],
 
-    goal: "Build useful technology that creates real impact.",
+  goal: "Build useful technology that creates real impact.",
 
-    openTo: [
-        "Research collaborations",
-        "Open source projects",
-        "Developer opportunities"
-    ]
+  openTo: [
+    "Research collaborations",
+    "Open source projects",
+    "Developer opportunities"
+  ]
 };
 ```
 
@@ -74,7 +74,7 @@ const tanvir = {
 
 <br/><br/>
 
-### Development & Tools
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode&theme=dark" />
 
@@ -88,53 +88,20 @@ const tanvir = {
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 What I'm Focused On
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-Azad-Mahir&theme=tokyonight&hide_border=true" />
-
-</div>
-
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=09090b&color=a78bfa&line=8b5cf6&point=ec4899&area=true&area_color=6d28d9&hide_border=true&radius=8"/>
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Tanvir-Azad-Mahir&theme=discord&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6"/>
-
-</div>
-
----
-
-## 🚀 Current Focus
-
-<table align="center">
+<table>
 <tr>
 <td align="center" width="33%">
 
 ### 🧠 Research
 
-Exploring AI, speech technologies,
-responsible systems and modern computing.
+AI systems
+Speech technologies
+Responsible AI
+Emerging computing
 
 </td>
 
@@ -142,8 +109,10 @@ responsible systems and modern computing.
 
 ### 💻 Development
 
-Building reliable software,
-tools and practical projects.
+Software engineering
+Backend systems
+Automation
+Open source
 
 </td>
 
@@ -151,12 +120,46 @@ tools and practical projects.
 
 ### 🌱 Learning
 
-Improving system design,
-cloud and problem-solving skills.
+System design
+Cloud architecture
+DSA
+Scalable systems
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## 🧩 Areas of Interest
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=a78bfa"/>
+<img src="https://img.shields.io/badge/Machine_Learning-111827?style=for-the-badge&logo=pytorch&logoColor=ee4c2c"/>
+<img src="https://img.shields.io/badge/System_Design-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=60a5fa"/>
+<img src="https://img.shields.io/badge/Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Open_Source-111827?style=for-the-badge&logo=github&logoColor=ffffff"/>
+
+</div>
+
+---
+
+## 📌 Featured Work
+
+<div align="center">
+
+<a href="https://github.com/Tanvir-Azad-Mahir?tab=repositories">
+<img src="https://img.shields.io/badge/View_My_Repositories-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+> I enjoy building projects that combine practical software engineering with research-driven ideas.
 
 ---
 
@@ -164,16 +167,16 @@ cloud and problem-solving skills.
 
 <div align="center">
 
-I'm always interested in **research, open-source projects, software development, and interesting technical discussions.**
+I'm open to **research collaborations, open-source work, software projects, and technical discussions.**
 
-<br/>
+<br/><br/>
 
 <a href="https://tanvir-azad-mahir.github.io">
-<img src="https://img.shields.io/badge/Visit_My_Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/tanvir-azad-mahir">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -182,7 +185,7 @@ I'm always interested in **research, open-source projects, software development,
 
 <div align="center">
 
-### `Code • Research • Learn • Build • Repeat`
+### `Research • Build • Learn • Improve`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6d28d9,100:09090b&section=footer" width="100%" />
 
