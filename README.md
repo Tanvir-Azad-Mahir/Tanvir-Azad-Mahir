@@ -299,25 +299,59 @@ Built a database-driven railway booking platform with authentication, search, bo
 
 <details open>
 
-<summary><h2>📊 Statistics</h2></summary>
+<summary><h2>📊 GitHub Statistics</h2></summary>
 
 <div align="center">
 
-<img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Tanvir-Azad-Mahir&column=5&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true&no-frame=true" />
+<a href="https://github.com/Tanvir-Azad-Mahir">
+  <img
+    src="https://github-widgetbox.vercel.app/api/profile?username=Tanvir-Azad-Mahir&data=followers,repositories,stars,commits&theme=dark"
+    alt="Tanvir Azad Mahir GitHub statistics"
+  />
+</a>
 
 <br/><br/>
 
-<img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Tanvir-Azad-Mahir&bg_color=1e1e2e&title_color=cba6f7&color=cdd6f4&line=89b4fa&point=f5c2e7&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-Azad-Mahir&theme=tokyonight"
+  alt="GitHub profile details"
+  width="95%"
+/>
 
 <br/><br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Azad-Mahir&layout=compact&theme=catppuccin_mocha&hide_border=true" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvir-Azad-Mahir&theme=tokyonight"
+  alt="Repositories per language"
+  height="180"
+/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Azad-Mahir&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanvir-Azad-Mahir&theme=tokyonight"
+  alt="GitHub stats"
+  height="180"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Tanvir-Azad-Mahir&theme=catppuccin-mocha&hide_border=true" />
+<img
+  src="https://streak-stats.demolab.com?user=Tanvir-Azad-Mahir&theme=tokyonight&hide_border=true"
+  alt="GitHub streak"
+  width="70%"
+/>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=1a1b27&color=c0caf5&line=bb9af7&point=7dcfff&area=true&hide_border=true&custom_title=Contribution%20Graph"
+  alt="Contribution graph"
+  width="95%"
+/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Tanvir-Azad-Mahir?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=bb9af7" alt="GitHub followers"/>
+<img src="https://komarev.com/ghpvc/?username=Tanvir-Azad-Mahir&style=for-the-badge&color=7dcfff&label=Profile+Views" alt="Profile views"/>
 
 </div>
 
