@@ -4,7 +4,7 @@
 
 <br/>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=900&color=6EE7B7&center=true&vCenter=true&width=760&lines=Computer+Science+%26+Engineering+Undergraduate;Building+AI%2C+ML+and+Computer+Vision+Systems;Exploring+NLP%2C+OCR+and+Responsible+AI;Research.+Build.+Learn.+Improve.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -27,8 +27,11 @@
 
 </div>
 
-> whoami
+---
 
+## `> whoami`
+
+```ts
 const tanvir = {
   name: "Tanvir Azad Mahir",
   location: "Dhaka, Bangladesh 🇧🇩",
@@ -58,34 +61,35 @@ const tanvir = {
     "Interesting engineering problems"
   ]
 };
+```
 
-🧠 About Me
+---
 
-I'm a Computer Science & Engineering undergraduate focused on Data Science, Machine Learning and AI.
+## 🧠 About Me
 
-I enjoy taking ideas from data preprocessing and experimentation to model development and practical software systems. My work and projects cover deep learning, computer vision, NLP, OCR, IoT and database-driven applications.
+I'm a **Computer Science & Engineering undergraduate** focused on **Data Science, Machine Learning and AI**.
 
-🔬 Exploring responsible AI and grounded speech-to-speech systems
+I enjoy taking ideas from **data preprocessing and experimentation** to **model development and practical software systems**. My work and projects cover **deep learning, computer vision, NLP, OCR, IoT and database-driven applications**.
 
-👁️ Building with computer vision, OCR and sequence models
+- 🔬 Exploring **responsible AI and grounded speech-to-speech systems**
+- 👁️ Building with **computer vision, OCR and sequence models**
+- 🧩 Interested in turning research ideas into **usable intelligent systems**
+- 🌱 Constantly learning through projects, experimentation and research
+- 🤝 Open to collaborations, open-source work and technical discussions
 
-🧩 Interested in turning research ideas into usable intelligent systems
+---
 
-🌱 Constantly learning through projects, experimentation and research
-
-🤝 Open to collaborations, open-source work and technical discussions
-
-⚡ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
-Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php&theme=dark" />
 
 <br/><br/>
 
-AI / ML & Data
+### AI / ML & Data
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
 
@@ -99,13 +103,13 @@ AI / ML & Data
 
 <br/><br/>
 
-Databases & Platforms
+### Databases & Platforms
 
 <img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark" />
 
 <br/><br/>
 
-Tools
+### Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
@@ -116,27 +120,25 @@ Tools
 
 </div>
 
-🚀 Selected Projects
+---
+
+## 🚀 Selected Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-✍️ Handwritten Prescription Recognition
+### ✍️ Handwritten Prescription Recognition
 
 A deep-learning OCR pipeline for recognizing handwritten medical prescriptions.
 
-Highlights
+**Highlights**
+- OCR-based text detection
+- Image preprocessing
+- CNN + BiLSTM + CTC
+- Character & sequence recognition
 
-OCR-based text detection
-
-Image preprocessing
-
-CNN + BiLSTM + CTC
-
-Character & sequence recognition
-
-Stack: Python EasyOCR OpenCV CNN BiLSTM CTC
+**Stack:** `Python` `EasyOCR` `OpenCV` `CNN` `BiLSTM` `CTC`
 
 <a href="https://github.com/Tanvir-Azad-Mahir/handwritten_recognition_system">View Project →</a>
 
@@ -144,23 +146,18 @@ Stack: Python EasyOCR OpenCV CNN BiLSTM CTC
 
 <td width="33%" valign="top">
 
-🏭 Smart Factory Safety & Navigation
+### 🏭 Smart Factory Safety & Navigation
 
 An IoT + AI safety system for monitoring factory environments and supporting intelligent worker navigation.
 
-Highlights
+**Highlights**
+- Gas / temperature / vibration monitoring
+- Human-presence detection
+- Computer-vision access control
+- Automated gate & rerouting logic
+- Smart dashboard
 
-Gas / temperature / vibration monitoring
-
-Human-presence detection
-
-Computer-vision access control
-
-Automated gate & rerouting logic
-
-Smart dashboard
-
-Stack: Python C/C++ ESP32 Raspberry Pi OpenCV
+**Stack:** `Python` `C/C++` `ESP32` `Raspberry Pi` `OpenCV`
 
 <a href="https://github.com/Tanvir-Azad-Mahir/Smart-Factory">View Project →</a>
 
@@ -168,25 +165,19 @@ Stack: Python C/C++ ESP32 Raspberry Pi OpenCV
 
 <td width="33%" valign="top">
 
-🚆 Ticketron
+### 🚆 Ticketron
 
 A database-driven railway ticket management system with both passenger and administrative workflows.
 
-Highlights
+**Highlights**
+- Authentication
+- Train search
+- Seat booking
+- Refund workflow
+- Printable tickets
+- Admin CRUD dashboard
 
-Authentication
-
-Train search
-
-Seat booking
-
-Refund workflow
-
-Printable tickets
-
-Admin CRUD dashboard
-
-Stack: PHP MySQL HTML CSS JavaScript
+**Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 <a href="https://github.com/Tanvir-Azad-Mahir/Ticketron-A-rainway-ticket-management-system">View Project →</a>
 
@@ -194,15 +185,17 @@ Stack: PHP MySQL HTML CSS JavaScript
 </tr>
 </table>
 
-🔬 Research
+---
+
+## 🔬 Research
 
 <div align="center">
 
-A Grounded Ethical Speech-to-Speech Controversial AI Framework
+### **A Grounded Ethical Speech-to-Speech Controversial AI Framework**
 
 </div>
 
-Ongoing research exploring responsible speech-to-speech AI with emphasis on grounding, trustworthy generation, and ethical handling of sensitive or controversial content.
+> Ongoing research exploring responsible speech-to-speech AI with emphasis on **grounding, trustworthy generation, and ethical handling of sensitive or controversial content**.
 
 <div align="center">
 
@@ -212,7 +205,9 @@ Ongoing research exploring responsible speech-to-speech AI with emphasis on grou
 
 </div>
 
-🎯 Current Focus
+---
+
+## 🎯 Current Focus
 
 <div align="center">
 
@@ -220,38 +215,34 @@ Ongoing research exploring responsible speech-to-speech AI with emphasis on grou
 <tr>
 <td align="center" width="25%">
 
-🧠 AI / ML
-
-Deep learning
-Model development
-Intelligent systems
-
-</td>
-<td align="center" width="25%">
-
-👁️ Vision
-
-Computer vision
-OCR
-Image processing
+### 🧠 AI / ML
+Deep learning  
+Model development  
+Intelligent systems  
 
 </td>
 <td align="center" width="25%">
 
-🗣️ Language
-
-NLP
-Transformers
-Speech AI
+### 👁️ Vision
+Computer vision  
+OCR  
+Image processing  
 
 </td>
 <td align="center" width="25%">
 
-🔬 Research
+### 🗣️ Language
+NLP  
+Transformers  
+Speech AI  
 
-Responsible AI
-Grounding
-Trustworthy systems
+</td>
+<td align="center" width="25%">
+
+### 🔬 Research
+Responsible AI  
+Grounding  
+Trustworthy systems  
 
 </td>
 </tr>
@@ -259,7 +250,9 @@ Trustworthy systems
 
 </div>
 
-📜 Certifications
+---
+
+## 📜 Certifications
 
 <div align="center">
 
@@ -273,7 +266,9 @@ Trustworthy systems
 
 </div>
 
-📊 GitHub Activity
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -287,7 +282,9 @@ Trustworthy systems
 
 </div>
 
-🌐 Find Me Online
+---
+
+## 🌐 Find Me Online
 
 <div align="center">
 
@@ -309,7 +306,7 @@ Trustworthy systems
 
 <div align="center">
 
-Research • Build • Learn • Improve
+### `Research • Build • Learn • Improve`
 
 <sub>Interested in AI, machine learning, intelligent systems and research that can create real-world impact.</sub>
 
