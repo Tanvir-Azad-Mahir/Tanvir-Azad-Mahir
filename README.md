@@ -38,68 +38,61 @@
 
 ---
 
-## 👻 A little about me...
+## 🌙 Who's Behind the Screen?
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Tanvir-Azad-Mahir&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+<div align="center">
 
-I am a **Computer Science & Engineering undergraduate** focused on **Data Science, Machine Learning and Artificial Intelligence**.
+> *Some people collect achievements. I collect problems worth solving.*
 
-I enjoy building systems that combine **deep learning, computer vision, NLP, OCR, IoT and practical software engineering**. My goal is to turn research ideas into intelligent tools that solve real-world problems.
+</div>
 
-At the moment, I am especially interested in:
+I'm **Tanvir Azad Mahir**, a **Computer Science & Engineering undergraduate** from Dhaka with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, NLP and intelligent systems**.
 
-- 🧠 **Artificial Intelligence & Machine Learning**
-- 👁️ **Computer Vision & OCR**
-- 🗣️ **NLP, Transformers & Speech AI**
-- 🔬 **Responsible AI & grounded generation**
-- ⚙️ **Intelligent systems and applied research**
+Most of my work starts with a simple question:
 
-```ts
-const TANVIR = {
-  location: "Dhaka, Bangladesh 🇧🇩",
-  education: "BSc in Computer Science & Engineering @ UIU",
+### `“Can I build something intelligent enough to make this easier?”`
 
-  languages: {
-    strong: ["Python"],
-    comfortable: ["C", "C++", "Java", "JavaScript"],
-    web: ["PHP"]
-  },
+That question has taken me from **handwritten prescription recognition** and **computer-vision systems** to **IoT safety systems**, data-driven applications and research around **responsible speech-to-speech AI**.
 
-  ai_ml: [
-    "CNN",
-    "RNN",
-    "LSTM",
-    "BiLSTM",
-    "Transformers",
-    "NLP",
-    "Computer Vision",
-    "OCR"
-  ],
+<br/>
 
-  data: [
-    "Pandas",
-    "NumPy",
-    "Matplotlib",
-    "Data Preprocessing",
-    "Data Visualization"
-  ],
-
-  tools: [
-    "Git",
-    "GitHub",
-    "Jupyter Notebook",
-    "Google Colab",
-    "VS Code",
-    "MySQL",
-    "Supabase",
-    "Firebase"
-  ],
-
-  research: "Grounded Ethical Speech-to-Speech AI",
-
-  goal: "Build useful intelligent systems with real-world impact."
-};
+```text
+╭─────────────────── PLAYER PROFILE ───────────────────╮
+│                                                      │
+│  NAME        › Tanvir Azad Mahir                     │
+│  CLASS       › AI / ML Builder                       │
+│  LOCATION    › Dhaka, Bangladesh 🇧🇩                 │
+│  EDUCATION   › CSE @ United International University │
+│                                                      │
+│  MAIN QUEST  › Build intelligent systems that matter │
+│                                                      │
+│  SPECIALTIES › Machine Learning                      │
+│              › Computer Vision                       │
+│              › NLP & Transformers                    │
+│              › OCR                                   │
+│              › Deep Learning                         │
+│                                                      │
+│  RESEARCH    › Responsible Speech-to-Speech AI       │
+│                                                      │
+│  STATUS      › Learning • Building • Experimenting   │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
+
+### ⚔️ What keeps me building?
+
+- 🧠 Turning **AI/ML concepts into working systems**
+- 👁️ Experimenting with **Computer Vision and OCR**
+- 🗣️ Exploring **NLP, Transformers and Speech AI**
+- 🔬 Working toward **responsible and trustworthy AI**
+- ⚙️ Combining software, data and intelligent systems
+- 📚 Learning through projects instead of stopping at theory
+
+<div align="center">
+
+### `Curiosity → Experiment → Failure → Improvement → Build Again`
+
+</div>
 
 ---
 
