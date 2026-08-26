@@ -61,7 +61,7 @@ That question has taken me from **handwritten prescription recognition** and **c
 │                                                      │
 │  NAME        › Tanvir Azad Mahir                     │
 │  CLASS       › AI / ML Builder                       │
-│  LOCATION    › Dhaka, Bangladesh 🇧🇩                 │
+│  LOCATION    › Dhaka, Bangladesh 🇧🇩                  │
 │  EDUCATION   › CSE @ United International University │
 │                                                      │
 │  MAIN QUEST  › Build intelligent systems that matter │
@@ -231,17 +231,6 @@ Exploring responsible speech-to-speech AI with emphasis on:
 - Speech-to-speech reasoning pipelines
 - Responsible AI design
 
-```text
-Speech Input
-    ↓
-Context / Grounding
-    ↓
-Reasoning Layer
-    ↓
-Ethical Safety Layer
-    ↓
-Speech Output
-```
 
 </details>
 
