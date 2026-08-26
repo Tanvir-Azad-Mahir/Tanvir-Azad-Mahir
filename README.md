@@ -144,58 +144,74 @@ That question has taken me from **handwritten prescription recognition** and **c
 
 ---
 
-## 🏢 Featured Projects (Clickable)
+## 🚀 Featured Projects
 
 <div align="center">
 
 <table>
-
 <tr>
-<td align="center" width="50%">
+
+<td width="33%" valign="top" align="center">
+
+<h3>✍️ Handwritten Prescription Recognition</h3>
+
+<p>
+Deep-learning OCR pipeline for recognizing handwritten medical prescriptions using image preprocessing, CNN, BiLSTM and CTC.
+</p>
+
+<p><code>Python</code> <code>OpenCV</code> <code>EasyOCR</code> <code>CNN</code> <code>BiLSTM</code></p>
 
 <a href="https://github.com/Tanvir-Azad-Mahir/handwritten_recognition_system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-Azad-Mahir&repo=handwritten_recognition_system&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-cba6f7?style=for-the-badge&logo=github&logoColor=11111b" alt="Handwritten Recognition Project"/>
 </a>
 
 </td>
 
-<td align="center" width="50%">
+<td width="33%" valign="top" align="center">
+
+<h3>🏭 Smart Factory Safety & Navigation</h3>
+
+<p>
+IoT + computer-vision safety system for environmental monitoring, access control, automated gate logic and worker rerouting.
+</p>
+
+<p><code>Python</code> <code>C/C++</code> <code>ESP32</code> <code>Raspberry Pi</code> <code>OpenCV</code></p>
 
 <a href="https://github.com/Tanvir-Azad-Mahir/Smart-Factory">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-Azad-Mahir&repo=Smart-Factory&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-89b4fa?style=for-the-badge&logo=github&logoColor=11111b" alt="Smart Factory Project"/>
 </a>
 
 </td>
-</tr>
 
-<tr>
-<td align="center" width="50%">
+<td width="33%" valign="top" align="center">
+
+<h3>🚆 Ticketron</h3>
+
+<p>
+Railway ticket management platform with authentication, train search, booking, refunds, printable tickets and an admin dashboard.
+</p>
+
+<p><code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
 
 <a href="https://github.com/Tanvir-Azad-Mahir/Ticketron-A-rainway-ticket-management-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-Azad-Mahir&repo=Ticketron-A-rainway-ticket-management-system&theme=catppuccin_mocha&hide_border=true" />
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-a6e3a1?style=for-the-badge&logo=github&logoColor=11111b" alt="Ticketron Project"/>
 </a>
 
 </td>
 
-<td align="center" width="50%">
+</tr>
+</table>
+
+<br/>
 
 <a href="https://github.com/Tanvir-Azad-Mahir?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-cba6f7?style=for-the-badge&logo=github&logoColor=11111b" />
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-f5c2e7?style=for-the-badge&logo=github&logoColor=11111b" alt="View all repositories"/>
 </a>
-
-<br/><br/>
-
-> More experiments, coursework and research projects are available on my GitHub.
-
-</td>
-</tr>
-
-</table>
 
 </div>
 
 > [!NOTE]
-> I like projects that combine **research-driven ideas with practical engineering** — especially when AI can improve a real workflow or system.
+> The project titles and buttons above link directly to the repositories, so they do not depend on a third-party GitHub stats card service.
 
 ---
 
