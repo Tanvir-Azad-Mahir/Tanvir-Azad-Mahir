@@ -1,431 +1,216 @@
 <div align="center">
 
-<!-- OPTIONAL: Put your own anime / cyberpunk GIF at assets/main.gif -->
-<img width="320" src="./assets/main.gif" alt="Tanvir Azad Mahir anime banner" />
+# Tanvir Azad Mahir
 
-<br/><br/>
+### Computer Science & Engineering Student · AI/ML Enthusiast · Researcher
 
-<a href="https://git.io/typing-svg">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Itim&size=38&duration=2200&pause=1200&color=CBA6F7&center=true&vCenter=true&width=760&height=65&lines=Greetings%2C+wanderer!+I'm+Tanvir+Azad+Mahir.;AI+%26+ML+Explorer+%E2%80%A2+Researcher+%E2%80%A2+Builder;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+OCR+%E2%80%A2+Intelligent+Systems;Research.+Build.+Learn.+Evolve."
-    alt="Typing SVG"
-  />
-</a>
+Building intelligent systems with a focus on **Machine Learning, Computer Vision, NLP, OCR, and Speech AI.**
 
 <br/>
 
 <a href="https://tanvirazad.netlify.app">
-  <img src="https://img.shields.io/badge/-Portfolio-f5e0dc?style=for-the-badge&logo=vercel&logoColor=11111b" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/tanvir-azad-0600aa276">
-  <img src="https://img.shields.io/badge/-LinkedIn-f2cdcd?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:tanvirazadmahir@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-f5c2e7?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.kaggle.com/tanvirazadmahir01">
-  <img src="https://img.shields.io/badge/-Kaggle-cba6f7?style=for-the-badge&logo=kaggle&logoColor=20BEFF" alt="Kaggle"/>
+<img src="https://img.shields.io/badge/Kaggle-111827?style=flat-square&logo=kaggle&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Tanvir-Azad-Mahir&style=for-the-badge&color=cba6f7&label=PROFILE+VIEWS" alt="Profile views"/>
-
 </div>
 
 ---
 
-## 🌙 Who's Behind the Screen?
+## About Me
 
-<div align="center">
+I'm **Tanvir Azad Mahir**, a Computer Science & Engineering undergraduate at **United International University**.
 
-> *Some people collect achievements. I collect problems worth solving.*
+I'm interested in building practical AI systems and understanding how intelligent technologies can be made more **reliable, useful, and responsible**.
 
-</div>
+My interests include:
 
-I'm **Tanvir Azad Mahir**, a **Computer Science & Engineering undergraduate** from Dhaka with a strong interest in **Artificial Intelligence, Machine Learning, Computer Vision, NLP and intelligent systems**.
+- Artificial Intelligence & Machine Learning
+- Computer Vision & Image Processing
+- Natural Language Processing
+- OCR & Handwriting Recognition
+- Speech & Conversational AI
+- Intelligent Systems
+- Responsible & Trustworthy AI
 
-Most of my work starts with a simple question:
-
-### `“Can I build something intelligent enough to make this easier?”`
-
-That question has taken me from **handwritten prescription recognition** and **computer-vision systems** to **IoT safety systems**, data-driven applications and research around **responsible speech-to-speech AI**.
-
-<br/>
-
-```text
-╭─────────────────── PLAYER PROFILE ───────────────────╮
-│                                                      │
-│  NAME        › Tanvir Azad Mahir                     │
-│  CLASS       › AI / ML Builder                       │
-│  LOCATION    › Dhaka, Bangladesh 🇧🇩                  │
-│  EDUCATION   › CSE @ United International University │
-│                                                      │
-│  MAIN QUEST  › Build intelligent systems that matter │
-│                                                      │
-│  SPECIALTIES › Machine Learning                      │
-│              › Computer Vision                       │
-│              › NLP & Transformers                    │
-│              › OCR                                   │
-│              › Deep Learning                         │
-│                                                      │
-│  RESEARCH    › Responsible Speech-to-Speech AI       │
-│                                                      │
-│  STATUS      › Learning • Building • Experimenting   │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
-
-### ⚔️ What keeps me building?
-
-- 🧠 Turning **AI/ML concepts into working systems**
-- 👁️ Experimenting with **Computer Vision and OCR**
-- 🗣️ Exploring **NLP, Transformers and Speech AI**
-- 🔬 Working toward **responsible and trustworthy AI**
-- ⚙️ Combining software, data and intelligent systems
-- 📚 Learning through projects instead of stopping at theory
-
-<div align="center">
-
-### `Curiosity → Experiment → Failure → Improvement → Build Again`
-
-</div>
+> **Learn the fundamentals. Build real systems. Research what comes next.**
 
 ---
 
-## ⚡ Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php&theme=light" />
+</p>
 
-<br/><br/>
+### AI / Machine Learning
 
-### AI / ML
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=light" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" />
+`Machine Learning` · `Deep Learning` · `CNN` · `RNN` · `LSTM` · `BiLSTM` · `Transformers` · `NLP` · `OCR`
 
-<br/><br/>
+### Data & Databases
 
-<img src="https://img.shields.io/badge/CNN-1e1e2e?style=for-the-badge&logo=probot&logoColor=cba6f7"/>
-<img src="https://img.shields.io/badge/RNN-1e1e2e?style=for-the-badge&logo=probot&logoColor=89b4fa"/>
-<img src="https://img.shields.io/badge/LSTM-1e1e2e?style=for-the-badge&logo=probot&logoColor=94e2d5"/>
-<img src="https://img.shields.io/badge/BiLSTM-1e1e2e?style=for-the-badge&logo=probot&logoColor=a6e3a1"/>
-<img src="https://img.shields.io/badge/Transformers-1e1e2e?style=for-the-badge&logo=huggingface&logoColor=f9e2af"/>
-<img src="https://img.shields.io/badge/NLP-1e1e2e?style=for-the-badge&logo=openai&logoColor=cba6f7"/>
-<img src="https://img.shields.io/badge/OCR-1e1e2e?style=for-the-badge&logo=googledocs&logoColor=89b4fa"/>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=light" />
+</p>
 
-<br/><br/>
+`NumPy` · `Pandas` · `Matplotlib`
 
-### Data & Platforms
+### Development Tools
 
-<img src="https://img.shields.io/badge/Pandas-1e1e2e?style=for-the-badge&logo=pandas&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/NumPy-1e1e2e?style=for-the-badge&logo=numpy&logoColor=89b4fa"/>
-<img src="https://img.shields.io/badge/Matplotlib-1e1e2e?style=for-the-badge&logo=python&logoColor=94e2d5"/>
-<img src="https://skillicons.dev/icons?i=mysql,supabase,firebase&theme=dark" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+</p>
 
-<br/><br/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Jupyter-1e1e2e?style=for-the-badge&logo=jupyter&logoColor=fab387"/>
-<img src="https://img.shields.io/badge/Google%20Colab-1e1e2e?style=for-the-badge&logo=googlecolab&logoColor=f9e2af"/>
-
-</div>
+`Jupyter` · `Google Colab`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-<div align="center">
+### Handwritten Prescription Recognition
 
-<table>
-<tr>
+A deep-learning based handwriting recognition system designed to recognize handwritten medical prescriptions.
 
-<td width="33%" valign="top" align="center">
+**Technologies:**  
+`Python` `OpenCV` `EasyOCR` `CNN` `BiLSTM` `CTC`
 
-<h3>✍️ Handwritten Prescription Recognition</h3>
-
-<p>
-Deep-learning OCR pipeline for recognizing handwritten medical prescriptions using image preprocessing, CNN, BiLSTM and CTC.
-</p>
-
-<p><code>Python</code> <code>OpenCV</code> <code>EasyOCR</code> <code>CNN</code> <code>BiLSTM</code></p>
-
-<a href="https://github.com/Tanvir-Azad-Mahir/handwritten_recognition_system">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-cba6f7?style=for-the-badge&logo=github&logoColor=11111b" alt="Handwritten Recognition Project"/>
-</a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h3>🏭 Smart Factory Safety & Navigation</h3>
-
-<p>
-IoT + computer-vision safety system for environmental monitoring, access control, automated gate logic and worker rerouting.
-</p>
-
-<p><code>Python</code> <code>C/C++</code> <code>ESP32</code> <code>Raspberry Pi</code> <code>OpenCV</code></p>
-
-<a href="https://github.com/Tanvir-Azad-Mahir/Smart-Factory">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-89b4fa?style=for-the-badge&logo=github&logoColor=11111b" alt="Smart Factory Project"/>
-</a>
-
-</td>
-
-<td width="33%" valign="top" align="center">
-
-<h3>🚆 Ticketron</h3>
-
-<p>
-Railway ticket management platform with authentication, train search, booking, refunds, printable tickets and an admin dashboard.
-</p>
-
-<p><code>PHP</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML</code> <code>CSS</code></p>
-
-<a href="https://github.com/Tanvir-Azad-Mahir/Ticketron-A-rainway-ticket-management-system">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-a6e3a1?style=for-the-badge&logo=github&logoColor=11111b" alt="Ticketron Project"/>
-</a>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
-<a href="https://github.com/Tanvir-Azad-Mahir?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-f5c2e7?style=for-the-badge&logo=github&logoColor=11111b" alt="View all repositories"/>
-</a>
-
-</div>
-
-> [!NOTE]
-> The project titles and buttons above link directly to the repositories, so they do not depend on a third-party GitHub stats card service.
+[View Repository →](https://github.com/Tanvir-Azad-Mahir/handwritten_recognition_system)
 
 ---
 
-<details open>
+### Smart Factory Safety & Navigation
 
-<summary><h2>🔬 Research</h2></summary>
+An IoT and computer-vision based safety system for environmental monitoring, access control, automated gate logic, and worker rerouting.
 
-### A Grounded Ethical Speech-to-Speech Controversial AI Framework
+**Technologies:**  
+`Python` `C/C++` `ESP32` `Raspberry Pi` `OpenCV`
+
+[View Repository →](https://github.com/Tanvir-Azad-Mahir/Smart-Factory)
+
+---
+
+### Ticketron
+
+A database-driven railway ticket management system featuring authentication, train search, booking, refunds, printable tickets, and an administrative dashboard.
+
+**Technologies:**  
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+[View Repository →](https://github.com/Tanvir-Azad-Mahir/Ticketron-A-rainway-ticket-management-system)
+
+---
+
+## Research
+
+### Grounded & Responsible Speech-to-Speech AI
 
 **Status:** Ongoing
 
-Exploring responsible speech-to-speech AI with emphasis on:
+Exploring a speech-to-speech conversational AI framework focused on:
 
-- Grounded generation
-- Trustworthy responses
-- Ethical handling of sensitive content
-- Speech-to-speech reasoning pipelines
-- Responsible AI design
+- Grounded responses
+- Retrieval-Augmented Generation
+- Conversational context
+- Ethical response validation
+- Explainable decision-making
+- Trustworthy AI systems
 
-
-</details>
-
----
-
-<details open>
-
-<summary><h2>🏆 Selected Projects</h2></summary>
-
-### ✍️ Handwritten Prescription Recognition System
-
-Built a handwriting-recognition pipeline for medical prescriptions using OCR-based text detection and deep learning.
-
-**Core stack:** `Python` `EasyOCR` `OpenCV` `CNN` `BiLSTM` `CTC`
+The goal is to investigate how conversational AI can become not only more capable, but also **more grounded, transparent, and responsible**.
 
 ---
 
-### 🏭 Smart Factory Safety & Intelligent Navigation
-
-Developed an IoT + AI safety prototype for environmental monitoring, access control, automated gate logic and worker rerouting.
-
-**Core stack:** `Python` `C/C++` `ESP32` `Raspberry Pi` `OpenCV`
-
----
-
-### 🚆 Ticketron — Railway Ticket Management System
-
-Built a database-driven railway booking platform with authentication, search, booking, refunds, printable tickets and a CRUD admin panel.
-
-**Core stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
-
-</details>
-
----
-
-<details open>
-
-<summary><h2>⚜️ Certifications</h2></summary>
-
-<div align="center">
+## Certifications
 
 <a href="https://www.kaggle.com/learn/certification/tanvirazadmahir01/pandas">
-  <img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </a>
 
 <a href="https://www.kaggle.com/learn/certification/tanvirazadmahir01/data-visualization">
-  <img src="https://img.shields.io/badge/Kaggle-Data_Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-Data%20Visualization-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </a>
-
-</div>
-
-</details>
 
 ---
 
-<details open>
-
-<summary><h2>📊 GitHub Statistics</h2></summary>
-
-<div align="center">
-
-<a href="https://github.com/Tanvir-Azad-Mahir">
-  <img
-    src="https://github-widgetbox.vercel.app/api/profile?username=Tanvir-Azad-Mahir&data=followers,repositories,stars,commits&theme=dark"
-    alt="Tanvir Azad Mahir GitHub statistics"
-  />
-</a>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-Azad-Mahir&theme=tokyonight"
-  alt="GitHub profile details"
-  width="95%"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvir-Azad-Mahir&theme=tokyonight"
-  alt="Repositories per language"
-  height="180"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanvir-Azad-Mahir&theme=tokyonight"
-  alt="GitHub stats"
-  height="180"
-/>
-
-<br/><br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=Tanvir-Azad-Mahir&theme=tokyonight&hide_border=true"
-  alt="GitHub streak"
-  width="70%"
-/>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=1a1b27&color=c0caf5&line=bb9af7&point=7dcfff&area=true&hide_border=true&custom_title=Contribution%20Graph"
-  alt="Contribution graph"
-  width="95%"
-/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/github/followers/Tanvir-Azad-Mahir?style=for-the-badge&logo=github&label=Followers&labelColor=1a1b27&color=bb9af7" alt="GitHub followers"/>
-<img src="https://komarev.com/ghpvc/?username=Tanvir-Azad-Mahir&style=for-the-badge&color=7dcfff&label=Profile+Views" alt="Profile views"/>
-
-</div>
-
-</details>
-
----
-
-## 🌌 Current Arc
-
-<div align="center">
+## Current Focus
 
 <table>
 <tr>
+<td width="50%" valign="top">
 
-<td align="center" width="25%">
+### AI / ML
 
-### 🧠 AI
-Machine Learning  
-Deep Learning  
-Intelligent Systems  
-
-</td>
-
-<td align="center" width="25%">
-
-### 👁️ Vision
-Computer Vision  
-OCR  
-Image Processing  
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- NLP
+- OCR
+- Transformers
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🗣️ Language
-NLP  
-Transformers  
-Speech AI  
+### Research
 
-</td>
-
-<td align="center" width="25%">
-
-### 🔬 Research
-Responsible AI  
-Grounding  
-Trustworthy Systems  
+- Speech AI
+- RAG
+- Grounded Generation
+- Responsible AI
+- Explainable AI
+- Intelligent Systems
 
 </td>
-
 </tr>
 </table>
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-Azad-Mahir&theme=default" width="95%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvir-Azad-Mahir&theme=default" height="170" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanvir-Azad-Mahir&theme=default" height="170" />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
+
+I'm interested in **AI/ML research, open-source projects, technical collaborations, and interesting ideas worth building.**
 
 <div align="center">
 
-I'm open to **research collaborations, open-source projects, AI/ML opportunities and technical discussions.**
+<a href="https://tanvirazad.netlify.app">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/tanvir-azad-0600aa276">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:tanvirazadmahir@gmail.com">Email</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/Tanvir-Azad-Mahir">GitHub</a>
 
 <br/><br/>
 
-<a href="https://tanvirazad.netlify.app">
-  <img src="https://img.shields.io/badge/Portfolio-cba6f7?style=for-the-badge&logo=vercel&logoColor=11111b" />
-</a>
-
-<a href="https://www.linkedin.com/in/tanvir-azad-0600aa276">
-  <img src="https://img.shields.io/badge/LinkedIn-89b4fa?style=for-the-badge&logo=linkedin&logoColor=11111b" />
-</a>
-
-<a href="mailto:tanvirazadmahir@gmail.com">
-  <img src="https://img.shields.io/badge/Email-f38ba8?style=for-the-badge&logo=gmail&logoColor=11111b" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### `Research • Build • Learn • Evolve`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:cba6f7,50:89b4fa,100:1e1e2e&section=footer" width="100%" />
+**Research · Build · Learn · Evolve**
 
 </div>
