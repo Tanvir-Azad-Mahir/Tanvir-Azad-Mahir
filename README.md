@@ -8,7 +8,7 @@ Building intelligent systems with a focus on **Machine Learning, Computer Vision
 
 <br/>
 
-<a href="https://tanvirazad.netlify.app">
+<a href="https://tanvirazadmahir.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/tanvir-azad-0600aa276">
