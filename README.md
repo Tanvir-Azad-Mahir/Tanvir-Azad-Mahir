@@ -8,7 +8,7 @@ Building practical intelligent systems across **Machine Learning, Computer Visio
 
 <br/>
 
-<a href="https://tanvirazadmahir.pages.dev/">
+<a href="https://tanvirazad.pages.dev/">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/tanvir-azad-0600aa276">
