@@ -1,184 +1,163 @@
+<!-- Custom animated vector banner: keep assets/hero.svg in this repository. -->
 <div align="center">
-
-<!-- HERO: animated SVG hosted by a community service -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:11325a,100:0b6e67&text=TANVIR%20AZAD%20MAHIR&fontColor=e2fff5&fontSize=44&fontAlignY=39&desc=AI%20Builder%20%7C%20Researcher%20%7C%20CSE%20Undergraduate&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Tanvir Azad Mahir animated banner" />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
-                                      font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=65FBD2&center=true&vCenter=true&repeat=true&width=850&lines=Building+AI+that+works+beyond+the+demo.;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Speech+AI;Researching+grounded+%26+responsible+intelligence.;Learn.+Experiment.+Build.+Repeat." alt="Animated introduction" /></a>
-
-<br />
-
-<a href="https://tanvirazad.pages.dev/"><img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/tanvir-azad-0600aa276"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:tanvirazadmahir@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CC3340?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://www.kaggle.com/tanvirazadmahir01"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-
-<br />
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=Tanvir-Azad-Mahir&label=PROFILE+VIEWS&color=008b80&style=flat-square" alt="Profile views" />
-
+  <img src="./assets/hero.svg" width="100%" alt="Animated Tanvir Azad Mahir research banner" />
+  <br /><br />
+  <a href="https://tanvirazad.pages.dev/"><img src="https://img.shields.io/badge/Explore_Portfolio-B7FF83?style=for-the-badge&logo=cloudflarepages&logoColor=101613" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/tanvir-azad-0600aa276"><img src="https://img.shields.io/badge/Let's_Connect-1C2520?style=for-the-badge&logo=linkedin&logoColor=B7FF83" alt="LinkedIn" /></a>
+  <a href="mailto:tanvirazadmahir@gmail.com"><img src="https://img.shields.io/badge/Email_Me-1C2520?style=for-the-badge&logo=gmail&logoColor=B7FF83" alt="Email" /></a>
+  <a href="https://www.kaggle.com/tanvirazadmahir01"><img src="https://img.shields.io/badge/Kaggle-1C2520?style=for-the-badge&logo=kaggle&logoColor=B7FF83" alt="Kaggle" /></a>
 </div>
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" alt="Animated developer coding GIF" />
-
-</div>
-
-## `> whoami`
-
-```yaml
-name: Tanvir Azad Mahir
-education: CSE Undergraduate, United International University
-interests:
-  - Applied AI / Machine Learning
-  - Computer Vision and Handwriting Recognition
-  - Natural Language Processing and Speech AI
-  - Retrieval-Augmented Generation
-  - Explainable and Responsible AI
-mission: "Build intelligent systems that are useful, grounded, and reliable."
-```
-
-I'm a Computer Science & Engineering student who enjoys taking ideas from **research papers to working prototypes**. My interests span **machine learning, computer vision, OCR, NLP, speech AI, and responsible AI** — with an emphasis on real-world usefulness.
-
-> **My principle:** Learn the fundamentals. Build real systems. Research what comes next.
-
-## `> tech --stack`
-
-<div align="center">
-
-**Languages & application development**
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,php,react,tailwind&theme=dark" alt="Programming and frontend skills" />
-
-**AI / ML & data**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mysql,supabase,firebase&theme=dark" alt="AI and data tools" />
-
-**Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Developer tools" />
-
-`NumPy` · `Pandas` · `Matplotlib` · `Jupyter Notebook` · `Google Colab` · `CNN` · `RNN` · `LSTM` · `BiLSTM` · `Transformers` · `CTC`
-
-</div>
-
-## `> ls featured-projects/`
+<br />
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### 🩺 Handwritten Prescription Recognition
+### Hello, I'm Mahir.
 
-Research-oriented handwriting recognition for medical prescriptions using computer vision and sequence modeling.
+I'm a **Computer Science & Engineering undergraduate at United International University**, building practical systems at the intersection of **AI engineering and research**.
 
-**Stack:** `Python` `OpenCV` `EasyOCR` `CNN` `BiLSTM` `CTC`
+I like the challenging part of AI: making systems more useful, explainable and reliable outside a perfectly controlled demo.
 
-[**Explore repository ↗**](https://github.com/Tanvir-Azad-Mahir/handwritten_recognition_system)
+**Currently exploring**
 
-</td>
-<td width="50%" valign="top">
+- Grounded, responsible **speech-to-speech conversational AI**
+- **Computer vision** and handwritten text recognition
+- Practical full-stack tools people can actually use
 
-### 🏭 Smart Factory Safety & Navigation
-
-IoT and vision-based monitoring with access control, automated gate logic, and safer worker rerouting.
-
-**Stack:** `Python` `C/C++` `ESP32` `Raspberry Pi` `OpenCV`
-
-[**Explore repository ↗**](https://github.com/Tanvir-Azad-Mahir/Smart-Factory)
+> **Build the prototype. Test the assumptions. Improve the system.**
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="40%" align="center" valign="middle">
 
-### 🚆 Ticketron
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Looping animation of a developer working" />
 
-Railway ticket management with authentication, schedules, booking, refunds, tickets, and administrative tools.
-
-**Stack:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
-
-[**Explore repository ↗**](https://github.com/Tanvir-Azad-Mahir/Ticketron-A-rainway-ticket-management-system)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔁 SkillSwap+
-
-Peer-to-peer learning platform connecting people through courses, mentorship, skill swaps, messaging, live sessions, and a credit system.
-
-**Stack:** `React` `Vite` `Tailwind CSS` `Supabase` `PostgreSQL` `WebRTC`
-
-*Project details available on request.*
+<sub>From ideas → experiments → working software</sub>
 
 </td>
 </tr>
 </table>
 
-## `> research --active`
+---
 
-### Grounded & Responsible Speech-to-Speech AI
+### Selected builds <sub> / 01 — 04</sub>
 
-**Status:** In progress
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Investigating a speech-to-speech conversational AI framework that explores **retrieval-grounded responses**, conversational context, ethical response validation, interpretability, and trustworthy behavior.
+**01 / Handwritten Prescription Recognition**
 
-```mermaid
-flowchart LR
-    A[Spoken input] --> B[Speech understanding]
-    B --> C[Context and retrieval]
-    C --> D[Grounded response generation]
-    D --> E[Safety and response checks]
-    E --> F[Spoken output]
+Deep-learning handwriting recognition for medical prescriptions.
+
+`Python` `OpenCV` `EasyOCR` `CNN` `BiLSTM` `CTC`
+
+[Explore the repository](https://github.com/Tanvir-Azad-Mahir/handwritten_recognition_system)
+
+</td>
+<td width="50%" valign="top">
+
+**02 / Smart Factory Safety & Navigation**
+
+An IoT and vision-based system for environment monitoring, access control and worker rerouting.
+
+`ESP32` `Raspberry Pi` `C/C++` `Python` `OpenCV`
+
+[Explore the repository](https://github.com/Tanvir-Azad-Mahir/Smart-Factory)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 / SkillSwap+**
+
+Peer-to-peer education, mentorship, reciprocal skill exchange, messaging, WebRTC sessions, certificates and credits.
+
+`React` `Vite` `Tailwind` `Supabase` `WebRTC`
+
+*Repository link can be added when public.*
+
+</td>
+<td width="50%" valign="top">
+
+**04 / Ticketron**
+
+Railway ticket management with bookings, refunds, printable tickets and administrative tools.
+
+`PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+[Explore the repository](https://github.com/Tanvir-Azad-Mahir/Ticketron-A-rainway-ticket-management-system)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Research notebook <sub> / ongoing</sub>
+
+**Grounded & Responsible Speech-to-Speech AI**
+
+Investigating how a conversational speech system can combine retrieval, conversational context, ethical validation and interpretable decision-making to produce more trustworthy responses.
+
+```text
+SPOKEN QUESTION
+      │
+      ▼
+  SPEECH MODEL ───► CONTEXT + RETRIEVAL
+                          │
+                          ▼
+                   GROUNDED RESPONSE
+                          │
+                          ▼
+                   SAFETY / VALIDATION
+                          │
+                          ▼
+                     SPOKEN REPLY
 ```
 
-*Conceptual research direction; not a claim of a deployed end-to-end system.*
+<sub>Conceptual research direction — not a claim of an already-deployed end-to-end architecture.</sub>
 
-## `> activity --visualize`
+---
+
+### Toolkit <sub> / what I work with</sub>
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-Azad-Mahir&theme=github_dark" width="98%" alt="GitHub contribution overview" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tanvir-Azad-Mahir&theme=github_dark" width="48%" alt="Languages by repository" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanvir-Azad-Mahir&theme=github_dark" width="48%" alt="GitHub statistics" />
-
-<br />
-
-<!-- Live contribution activity visualization -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=0d1117&color=65fbd2&line=3bc9ae&point=c7fff0&area=true&hide_border=true" width="98%" alt="GitHub activity graph" />
-
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,php,pytorch,tensorflow,opencv,react,vite,tailwind,mysql,supabase,firebase,git,github,vscode&perline=9&theme=dark" alt="Programming, AI, web development and database tools" />
 </div>
 
-## `> achievements --learning`
+<p align="center"><code>NumPy</code> · <code>Pandas</code> · <code>Matplotlib</code> · <code>Jupyter</code> · <code>Colab</code> · <code>NLP</code> · <code>OCR</code> · <code>Transformers</code></p>
+
+---
+
+### GitHub activity <sub> / experiments in public</sub>
 
 <div align="center">
-
-<a href="https://www.kaggle.com/learn/certification/tanvirazadmahir01/pandas"><img src="https://img.shields.io/badge/Kaggle-Pandas-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Pandas certificate" /></a>
-<a href="https://www.kaggle.com/learn/certification/tanvirazadmahir01/data-visualization"><img src="https://img.shields.io/badge/Kaggle-Data%20Visualization-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Data Visualization certificate" /></a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-Azad-Mahir&theme=github_dark" width="100%" alt="GitHub contribution summary" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-Azad-Mahir&bg_color=101613&color=b7ff83&line=70d9a6&point=e8fff0&area=true&hide_border=true" width="100%" alt="GitHub activity visualization" />
 </div>
 
-## `> currently-exploring`
+---
 
-| Building | Researching |
-|:--|:--|
-| Practical ML and deep learning systems | Grounded speech-to-speech AI |
-| Computer vision, OCR, and sequence modeling | Retrieval-augmented generation |
-| Full-stack tools and collaborative platforms | Explainability and responsible AI |
+### Learning, credentials & next steps
 
-## `> connect`
+- [Kaggle — Pandas certificate](https://www.kaggle.com/learn/certification/tanvirazadmahir01/pandas)
+- [Kaggle — Data Visualization certificate](https://www.kaggle.com/learn/certification/tanvirazadmahir01/data-visualization)
+- Exploring **retrieval-augmented speech AI**, **responsible AI**, and **interpretable intelligent systems**
 
 <div align="center">
 
-**Interested in AI research, open source, practical experiments, or collaborative projects?**
+### Good projects start with a question.
 
-[**Portfolio**](https://tanvirazad.pages.dev/) · [**LinkedIn**](https://www.linkedin.com/in/tanvir-azad-0600aa276) · [**Email**](mailto:tanvirazadmahir@gmail.com) · [**GitHub**](https://github.com/Tanvir-Azad-Mahir)
+**Have an AI research idea, open-source collaboration, or product worth building?**
 
-<br />
+[Portfolio](https://tanvirazad.pages.dev/) · [LinkedIn](https://www.linkedin.com/in/tanvir-azad-0600aa276) · [GitHub](https://github.com/Tanvir-Azad-Mahir) · [Email](mailto:tanvirazadmahir@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b6e67,100:050816" width="100%" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:B7FF83,100:70D9A6" width="100%" alt="Accent divider" />
+
+<sub>RESEARCH. BUILD. LEARN. REPEAT.</sub>
 
 </div>
