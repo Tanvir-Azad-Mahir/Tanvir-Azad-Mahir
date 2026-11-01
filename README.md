@@ -3,7 +3,8 @@
 <!-- HERO: animated SVG hosted by a community service -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050816,45:11325a,100:0b6e67&text=TANVIR%20AZAD%20MAHIR&fontColor=e2fff5&fontSize=44&fontAlignY=39&desc=AI%20Builder%20%7C%20Researcher%20%7C%20CSE%20Undergraduate&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Tanvir Azad Mahir animated banner" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=65FBD2&center=true&vCenter=true&repeat=true&width=850&lines=Building+AI+that+works+beyond+the+demo.;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Speech+AI;Researching+grounded+%26+responsible+intelligence.;Learn.+Experiment.+Build.+Repeat." alt="Animated introduction" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?
+                                      font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=65FBD2&center=true&vCenter=true&repeat=true&width=850&lines=Building+AI+that+works+beyond+the+demo.;Machine+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Speech+AI;Researching+grounded+%26+responsible+intelligence.;Learn.+Experiment.+Build.+Repeat." alt="Animated introduction" /></a>
 
 <br />
 
