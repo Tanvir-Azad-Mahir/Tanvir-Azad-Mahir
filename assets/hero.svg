@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Tanvir Azad Mahir — Applied AI and research">
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101613"/><stop offset="1" stop-color="#1b2923"/></linearGradient>
+ <linearGradient id="accent" x2="1"><stop stop-color="#b7ff83"/><stop offset="1" stop-color="#6ce6b1"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#c9f5d8" stroke-opacity=".055"/></pattern>
+ <style>
+ .orbit{transform-origin:950px 178px;animation:spin 22s linear infinite}.orbit2{transform-origin:950px 178px;animation:spin 15s linear infinite reverse}.pulse{animation:pulse 3s ease-in-out infinite}.bar{transform-origin:50% 50%;animation:wave 1.6s ease-in-out infinite alternate}.b2{animation-delay:.2s}.b3{animation-delay:.45s}.b4{animation-delay:.7s}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.4}}@keyframes wave{to{transform:scaleY(.32)}}
+ </style>
+</defs>
+<rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+<rect x="54" y="50" width="170" height="30" rx="15" fill="#b7ff83" fill-opacity=".12" stroke="#b7ff83" stroke-opacity=".45"/><circle cx="73" cy="65" r="4" fill="#b7ff83" class="pulse"/><text x="87" y="70" font-size="13" font-family="Arial, sans-serif" letter-spacing="2" fill="#c9f8d3">OPEN TO RESEARCH</text>
+<text x="52" y="153" font-family="Arial, sans-serif" font-weight="800" font-size="57" letter-spacing="-2" fill="#f4fff7">TANVIR AZAD</text>
+<text x="52" y="218" font-family="Arial, sans-serif" font-weight="800" font-size="68" letter-spacing="-2" fill="url(#accent)">MAHIR<tspan fill="#f4fff7">.</tspan></text>
+<path d="M54 243H590" stroke="#9ed4b2" stroke-opacity=".24"/><text x="54" y="283" font-family="Arial,sans-serif" font-size="19" fill="#c5d9cd">Building useful intelligence. Researching what comes next.</text>
+<text x="54" y="318" font-family="monospace" font-size="13" letter-spacing="1.6" fill="#8cb9a2">AI / ML    ·    COMPUTER VISION    ·    SPEECH AI    ·    RESPONSIBLE AI</text>
+<circle cx="950" cy="178" r="117" fill="#b7ff83" fill-opacity=".035" stroke="#9beaaf" stroke-opacity=".18"/><circle cx="950" cy="178" r="88" fill="none" stroke="#b7ff83" stroke-opacity=".4" stroke-dasharray="6 12" class="orbit"/><circle cx="950" cy="178" r="142" fill="none" stroke="#76dba1" stroke-opacity=".28" stroke-dasharray="2 13" class="orbit2"/>
+<circle cx="950" cy="178" r="49" fill="#b7ff83" fill-opacity=".08" stroke="#b7ff83" stroke-opacity=".65"/><path d="M909 178H991M950 137V219" stroke="#b7ff83" stroke-opacity=".35"/>
+<rect x="914" y="159" width="9" height="38" rx="4" fill="#b7ff83" class="bar"/><rect x="930" y="145" width="9" height="65" rx="4" fill="#78dcb4" class="bar b2"/><rect x="946" y="153" width="9" height="51" rx="4" fill="#b7ff83" class="bar b3"/><rect x="962" y="141" width="9" height="73" rx="4" fill="#78dcb4" class="bar b4"/><rect x="978" y="161" width="9" height="34" rx="4" fill="#b7ff83" class="bar b2"/>
+<circle cx="950" cy="36" r="6" fill="#b7ff83"/><circle cx="1092" cy="178" r="5" fill="#78dcb4"/><circle cx="808" cy="178" r="5" fill="#b7ff83"/>
+</svg>
